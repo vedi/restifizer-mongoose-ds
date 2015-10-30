@@ -21,6 +21,7 @@
     "nosql"
   ],
   "dependencies": {
+    "bluebird": "^3.0.2",
     "http-statuses": "~0.1.x",
     "lodash": "~2.4.1",
     "mongoose": "~3.8.21"

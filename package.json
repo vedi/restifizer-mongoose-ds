@@ -1,6 +1,6 @@
 {
   "name": "restifizer-mongoose-ds",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Mongoose Data Source for Restifizer",
   "main": "index.js",
   "scripts": {

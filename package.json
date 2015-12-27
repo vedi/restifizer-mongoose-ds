@@ -1,6 +1,6 @@
 {
   "name": "restifizer-mongoose-ds",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Mongoose Data Source for Restifizer",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,9 @@
     "nosql"
   ],
   "dependencies": {
+    "bson": "^0.4.20",
     "http-statuses": "~0.1.x",
-    "lodash": "~2.4.1",
-    "mongoose": "~3.8.21"
+    "lodash": "~2.4.1"
   },
   "author": {
     "name": "Fedor Shubin"

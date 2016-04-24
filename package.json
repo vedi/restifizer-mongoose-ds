@@ -24,7 +24,7 @@
     "bluebird": "^3.1.5",
     "bson": "^0.4.21",
     "http-statuses": "^0.1.x",
-    "lodash": "^2.4.2"
+    "lodash": "^3.10.1"
   },
   "author": {
     "name": "Fedor Shubin"

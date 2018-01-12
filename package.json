@@ -4,6 +4,7 @@
   "description": "Mongoose Data Source for Restifizer",
   "main": "index.js",
   "scripts": {
+    "eslint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,9 +28,9 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "eslint": "3.12.2",
-    "eslint-config-airbnb-base": "11.0.0",
-    "eslint-plugin-import": "2.2.0"
+    "eslint": "4.9.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.7.0"
   },
   "author": {
     "name": "Fedor Shubin"

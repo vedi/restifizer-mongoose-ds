@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "bluebird": "^3.5.0",
-    "bson": "^0.4.21",
+    "bson": "^1.1.4",
     "http-statuses": "^0.2.x",
     "lodash": "^4.17.15"
   },

@@ -1,6 +1,6 @@
 {
   "name": "restifizer-mongoose-ds",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "description": "Mongoose Data Source for Restifizer",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,7 @@
     "nosql"
   ],
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "bson": "^0.4.21",
+    "bson": "1.1.4",
     "http-statuses": "^0.2.x",
     "lodash": "^4.17.15"
   },
